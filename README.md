@@ -50,9 +50,6 @@ of the basic operations work with zero configuration.
 $ zeusaid
 ```
 
-## Discord
-Join our discord server using the following link: https://discord.gg/sFSASsgx
-
 ## Issue Tracker
 
 The [integrated github issue tracker](https://github.com/TheRetroMike/ZeusAI/issues)
